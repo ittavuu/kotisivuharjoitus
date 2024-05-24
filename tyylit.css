@@ -1,0 +1,21 @@
+body {
+    background-color: black
+}
+h1, p, a, ul, h2 {
+    color: red;
+    font-family: 40px;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+#otsikko {
+    color: white;
+    font-size: 2,9em;
+}
+
+[target] {
+    color: rgb(132, 214, 8);
+}
